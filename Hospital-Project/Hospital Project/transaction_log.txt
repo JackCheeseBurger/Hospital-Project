@@ -1,0 +1,61 @@
+=== Heart Clinic ===
+Transaction Log:
+  Added Patient Bernie Sanders 002
+  Added Patient Sean Connery 007
+  Added Patient Bill Clinton 008
+  Added Patient Joe Biden 009
+  Added Patient Donald Trump 014
+  Added Patient Jennifer Lopez 017
+  Added Patient Bill Gates 019
+=== Lung Clinic ===
+Transaction Log:
+  Added Patient Barack Obama 001
+  Added Patient Johnny Depp 004
+  Added Patient Lady Gaga 005
+  Added Patient Jackie Chan 010
+  Added Patient Mariah Carey 011
+  Added Patient Brad Pitt 012
+  Added Patient Will Smith 013
+  Added Patient Ariana Grande 016
+  Added Patient Justin Bieber 018
+=== Plastic Surgery ===
+Transaction Log:
+  Added Patient Michelle Obama 003
+  Added Patient Beyonce Knowles 006
+  Added Patient Britney Spears 021
+  Added Patient Michael Jackson 015
+  Added Patient Drake  016
+  Added Patient Rihanna  020
+
+Static Default Error List:
+  File Error at line 23: Invalid data format - patientFName
+
+Patients not Seen today:
+
+-Heart Clinic Reschedules:
+	Bernie Sanders 002 Reg
+	Sean Connery 007 Reg
+	Bill Clinton 008 Reg
+	Joe Biden 009 Reg
+	Donald Trump 014 Reg
+	Jennifer Lopez 017 Reg
+	Bill Gates 019 Reg
+
+-Lung Clinic Reschedules:
+	Barack Obama 001 Reg
+	Johnny Depp 004 Reg
+	Lady Gaga 005 Reg
+	Jackie Chan 010 Reg
+	Mariah Carey 011 Reg
+	Brad Pitt 012 Reg
+	Will Smith 013 Reg
+	Ariana Grande 016 Reg
+	Justin Bieber 018 Reg
+
+-Plastic Clinic Reschedules:
+	Michelle Obama 003 Reg
+	Beyonce Knowles 006 Reg
+	Britney Spears 021 Reg
+	Michael Jackson 015 Reg
+	Drake  016 Reg
+	Rihanna  020 Reg
